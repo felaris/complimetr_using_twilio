@@ -1,4 +1,4 @@
-# Example Application - Complimentr
+# Complimentr
 
 This application was built using a tutorial from  [Introduction to APIs course](https://www.youtube.com/watch?v=GZvSYJDk-us&t=5527s).
 
@@ -9,6 +9,7 @@ This application was built using a tutorial from  [Introduction to APIs course](
 ## Local Installation
 
 Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.com) credentials by running this command 
+
 `cp .env.example .env`
 
 Check how to secure your [twilio credentials](https://www.twilio.com/docs/usage/secure-credentials)
