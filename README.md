@@ -8,9 +8,9 @@ This application was built using a tutorial from  [Introduction to APIs course](
 
 ## Local Installation
 
-Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.com) credentials by running this command 
+Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.com) credentials.
 
-`cp .env.example .env`
+Run this command `cp .env.example .env` to copy your credentials into `.env` file
 
 Check how to secure your [twilio credentials](https://www.twilio.com/docs/usage/secure-credentials)
 
